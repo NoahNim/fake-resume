@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+}
+
+.intro {
+  font-weight: bolder;
+  font-size: 20px;
+}
+
+.introtwo{
+  font-size: 14px;
+  font-weight: normal;
+}

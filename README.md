@@ -12,3 +12,6 @@ Git
 Atom
 Chrome
 MacOSX
+
+##### License and Copyright
+The introductory paragraph is ripped from Wikipedia.
