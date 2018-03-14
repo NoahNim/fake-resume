@@ -5,11 +5,13 @@ body {
 .intro {
   font-weight: bolder;
   font-size: 20px;
+  color: white;
 }
 
 .introtwo{
   font-size: 14px;
   font-weight: normal;
+  color: green;
 }
 .bg {
   background-image: url("https://cdn.spacetelescope.org/archives/images/wallpaper5/heic0406b.jpg");
